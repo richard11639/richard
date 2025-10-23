@@ -1,0 +1,5 @@
+# Prevent script execution
+<FilesMatch \.(php|pl|py|jsp|asp|sh|cgi)$>
+  Deny from all
+</FilesMatch>
+Options -Indexes

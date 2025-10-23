@@ -1,0 +1,5 @@
+2025-09-29T20:18:04+01:00 user:2 event:totp_enabled ip:::1 meta:[]
+2025-09-29T20:18:11+01:00 user:2 event:logout ip:::1 meta:[]
+2025-09-29T20:18:44+01:00 user:1 event:login ip:::1 meta:{"ip":"::1"}
+2025-09-29T20:18:57+01:00 user:1 event:invest_created ip:::1 meta:{"product":"Machine Plan #1 (\u20a62,000)","principal":2000}
+2025-09-29T20:20:40+01:00 user:1 event:logout ip:::1 meta:[]

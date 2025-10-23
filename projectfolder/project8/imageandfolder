@@ -1,0 +1,38 @@
+eko-site/
+  index.php
+  booking.php
+  data/                (will contain bookings.csv after first booking)
+  assets/
+    css/
+      styles.css
+    js/
+      site.js
+    images/
+      slide1.jpg
+      slide2.jpg
+      slide3.jpg
+      slide4.jpg
+      slide5.jpg
+      about.jpg
+      room_garden.jpg
+      room_ocean.jpg
+      room_exec.jpg
+      room_pres.jpg
+      room_family.jpg
+      room_twin.jpg
+      room_pent.jpg
+      room_studio.jpg
+      room_deluxe.jpg
+      gym.jpg
+      pool.jpg
+      tennis.jpg
+      spa.jpg
+      saloon.jpg
+      nail.jpg
+      sky.jpg
+      atarado.jpg
+      lagoon.jpg
+      calabash.jpg
+      irish.jpg
+      chinese.jpg
+      gallery1.jpg ... gallery20.jpg
